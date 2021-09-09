@@ -2,8 +2,11 @@
 GR11 Bounties
 
 Bounty
+
 Grand prize: 10K
+
 Runner up (2nd and 3rd place): 5K Each
+
 Challenge Description
 Perpetual Protocol is a decentralized protocol for trading perpetual futures contracts. Like Uniswap, traders can trade with our vAMMs directly without the need for counter-parties. The vAMMs provide guaranteed on-chain liquidity with predictable pricing set by constant product curves. The vAMMs are also designed to be market neutral and fully collateralized.
 For further information visit: https://docs.perp.fi/
